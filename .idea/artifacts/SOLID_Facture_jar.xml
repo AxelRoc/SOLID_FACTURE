@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SOLID_Facture:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SOLID_Facture_jar</output-path>
+    <root id="archive" name="SOLID_Facture.jar">
+      <element id="module-output" name="SOLID_Facture" />
+    </root>
+  </artifact>
+</component>
